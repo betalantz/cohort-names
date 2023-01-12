@@ -36,8 +36,9 @@
 | DC Web 042318      | Name Undefined               
 | DC Web 031218      | Baby Got Stack/ Stack Sabbath / Lower Stack Pain
 | Online SE PT 050420 | Game of Codes |
-| LIVE West SE 062821 | Guardians of the Algorithms |
+| LIVE West SE 062821 | Guardians of the Algorithms (Banana Gang) |
 | LIVE West SE 040521 | Fullsnack Developers |
 | LIVE West SE 101121 | Codeart Online |
 | LIVE West SE 013122 | 0f0-dopamine |
 | LIVE West SE 042522 | Callback Maybe |
+| LIVE West SE 080822 | Attack of the Git Clones |
