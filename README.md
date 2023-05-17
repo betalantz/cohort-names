@@ -42,4 +42,5 @@
 | LIVE West SE 013122 | 0f0-dopamine |
 | LIVE West SE 042522 | Callback Maybe |
 | LIVE West SE 080822 | Attack of the Git Clones |
-| LIVE West SE 022023 | Flat Earthers |
+| LIVE West SE 121222 | Flat Earthers |
+| LIVE West SE 022023 | Scrum and Villany |
