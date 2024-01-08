@@ -44,3 +44,4 @@
 | LIVE West SE 080822 | Attack of the Git Clones |
 | LIVE West SE 121222 | Flat Earthers |
 | LIVE West SE 022023 | Scrum and Villany |
+| SE-LIVE-121123 | Bang Operators |
