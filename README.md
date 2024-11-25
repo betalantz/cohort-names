@@ -46,4 +46,4 @@
 | LIVE West SE 022023 | Scrum and Villany |
 | SE-LIVE-061223 | Bang Operators |
 | SE-LIVE-121123 | Code Crusaders |
-| SE-LIVE-042224 | Code Challenged |
+| SE-WEST-042224 | Code Challenged |
